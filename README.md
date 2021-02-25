@@ -2,7 +2,7 @@
 
 ### Responsive web Template built using html and css . Template can be used for multiple pusrposes.
 
-
+### View my deployed app at :- https://sahil9818336328.github.io/SinglePageResponsiveLayoutTemplate/
 
 # Technologies used: 
 
